@@ -1,15 +1,15 @@
 ﻿# My First Loop 🚀
 
-一个基于 Claude Code 自动化循环开发的 **Todo CLI** 待办事项管理器。 转自公共号
+一个基于 Claude Code 自动化循环开发的 **Todo CLI   防疫方法** 待办事项管理器。 转自公共号，添加win支持
 
 ## 功能
 
-```bash
-python todo.py add "买咖啡"     # 添加任务
-python todo.py list             # 列出所有任务
-python todo.py done 1           # 标记完成
-python todo.py delete 1         # 删除任务
-python todo.py clear            # 清空所有任务
+```bash   ”“bash
+python todo.py add "买咖啡"     # 添加任务python todo.py add " Buy coffee # Add taskpython todo.py add " Buy coffee # Add task
+python todo.py list             # 列出所有任务python todo.py list             # List all tasks
+python todo.py done 1           # 标记完成python todo.py done 1           # Mark as completed
+python todo.py delete 1         # 删除任务python todo.py delete 1         # Delete task
+python todo.py clear            # 清空所有任务python todo.py clear            # Clear all tasks
 ```
 
 ## 技术栈
