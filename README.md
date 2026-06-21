@@ -1,6 +1,6 @@
 ﻿# My First Loop 🚀
 
-一个基于 Claude Code 自动化循环开发的 **Todo CLI** 待办事项管理器。
+一个基于 Claude Code 自动化循环开发的 **Todo CLI** 待办事项管理器。 转自公共号
 
 ## 功能
 
